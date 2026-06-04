@@ -2,23 +2,23 @@
 
 Projeto desenvolvido em Python com o objetivo de praticar conceitos fundamentais de programação, incluindo funções, estruturas condicionais, laços de repetição e tratamento de exceções.
 
-## 📋 Sobre o Projeto
+##  Sobre o Projeto
 
 Esta aplicação funciona como uma calculadora de terminal capaz de realizar operações matemáticas básicas de forma interativa.
 
 O usuário escolhe a operação desejada através de um menu e informa os números que serão utilizados no cálculo.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
-- ➕ Soma
-- ➖ Subtração
-- ✖️ Multiplicação
-- ➗ Divisão
-- 🚫 Tratamento de divisão por zero
-- 🔄 Menu interativo
-- ⚠️ Validação de entradas inválidas
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+- Tratamento de divisão por zero
+- Menu interativo
+- Validação de entradas inválidas
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python 3
 
@@ -32,7 +32,7 @@ calculadora-python/
 └── .gitignore
 ```
 
-## ▶️ Como Executar
+## Como Executar
 
 Clone o repositório:
 
@@ -52,7 +52,7 @@ Execute o programa:
 python main.py
 ```
 
-## 💻 Exemplo de Uso
+## Exemplo de Uso
 
 ```text
 ===== CALCULADORA =====
@@ -71,7 +71,7 @@ Digite o segundo número: 5
 Resultado: 15
 ```
 
-## 🎯 Conceitos Aplicados
+## Conceitos Aplicados
 
 Durante o desenvolvimento deste projeto foram utilizados os seguintes conceitos:
 
@@ -82,13 +82,13 @@ Durante o desenvolvimento deste projeto foram utilizados os seguintes conceitos:
 - Tratamento de exceções
 - Organização de código
 
-## 🚀 Melhorias Futuras
+## Melhorias Futuras
 
 - Interface gráfica com Tkinter
 - Histórico de operações
 - Potenciação e raiz quadrada
 - Exportação de resultados
 
-## 👩‍💻 Autora
+## Autora
 
 Cecília Galindo
