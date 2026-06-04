@@ -1,4 +1,4 @@
-# 🧮 Calculadora em Python
+# Calculadora em Python
 
 Projeto desenvolvido em Python com o objetivo de praticar conceitos fundamentais de programação, incluindo funções, estruturas condicionais, laços de repetição e tratamento de exceções.
 
